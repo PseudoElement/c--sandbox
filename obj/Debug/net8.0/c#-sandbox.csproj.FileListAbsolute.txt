@@ -1,0 +1,14 @@
+C:\Users\monst\Desktop\Web\Backend\C#\c#-sandbox\bin\Debug\net8.0\c#-sandbox.exe
+C:\Users\monst\Desktop\Web\Backend\C#\c#-sandbox\bin\Debug\net8.0\c#-sandbox.deps.json
+C:\Users\monst\Desktop\Web\Backend\C#\c#-sandbox\bin\Debug\net8.0\c#-sandbox.runtimeconfig.json
+C:\Users\monst\Desktop\Web\Backend\C#\c#-sandbox\bin\Debug\net8.0\c#-sandbox.dll
+C:\Users\monst\Desktop\Web\Backend\C#\c#-sandbox\bin\Debug\net8.0\c#-sandbox.pdb
+C:\Users\monst\Desktop\Web\Backend\C#\c#-sandbox\obj\Debug\net8.0\c#-sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monst\Desktop\Web\Backend\C#\c#-sandbox\obj\Debug\net8.0\c#-sandbox.AssemblyInfoInputs.cache
+C:\Users\monst\Desktop\Web\Backend\C#\c#-sandbox\obj\Debug\net8.0\c#-sandbox.AssemblyInfo.cs
+C:\Users\monst\Desktop\Web\Backend\C#\c#-sandbox\obj\Debug\net8.0\c#-sandbox.csproj.CoreCompileInputs.cache
+C:\Users\monst\Desktop\Web\Backend\C#\c#-sandbox\obj\Debug\net8.0\c#-sandbox.dll
+C:\Users\monst\Desktop\Web\Backend\C#\c#-sandbox\obj\Debug\net8.0\refint\c#-sandbox.dll
+C:\Users\monst\Desktop\Web\Backend\C#\c#-sandbox\obj\Debug\net8.0\c#-sandbox.pdb
+C:\Users\monst\Desktop\Web\Backend\C#\c#-sandbox\obj\Debug\net8.0\c#-sandbox.genruntimeconfig.cache
+C:\Users\monst\Desktop\Web\Backend\C#\c#-sandbox\obj\Debug\net8.0\ref\c#-sandbox.dll
